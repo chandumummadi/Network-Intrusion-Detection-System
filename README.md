@@ -96,7 +96,7 @@ pip install pandas numpy scikit-learn xgboost lightgbm matplotlib seaborn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chandumummadi/Network-Intrusion-Detection.git
+   git clone https://github.com/chandumummadi/Network-Intrusion-Detection-System.git
    ```
 2. Navigate to the project folder:
    ```bash
