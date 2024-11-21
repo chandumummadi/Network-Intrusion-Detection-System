@@ -124,4 +124,4 @@ pip install pandas numpy scikit-learn xgboost lightgbm matplotlib seaborn
 ---
 
 ## **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is free to use, modify, and distribute for any purpose. No attribution is required, but it's appreciated.
