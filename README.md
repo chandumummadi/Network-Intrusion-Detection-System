@@ -156,7 +156,6 @@ print("Prediction:", model.predict(sample))  # 0 = Normal, 1 = Intrusion
 ## 👥 **Contributors**
 
 * **Sharath Chandra Mummadi**
-   ML Engineer | Cybersecurity Enthusiast
 
 Special thanks to the UNSW Canberra Cyber team for making this dataset publicly available.
 
